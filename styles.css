@@ -1,10 +1,10 @@
 body{
     margin: 0;
-    width: 100%;
-    height: 100vh;
+    width: 94%;
+    padding: 3%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #fff;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #5eeb5e);
+    background: linear-gradient(-45deg, #dfd051, #baeb5e, #ee7752, #b8768f, #23a6d5, #39c539);
     background-size: 400% 400%;
     animation: gradientBG 15s ease infinite;
 }
@@ -52,10 +52,9 @@ a:hover{
 
 #container{
     width: 300px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 40px auto 0;
     padding: 50px;
-    box-shadow: 0 20px 50px -15px #000;
+    box-shadow: 0 20px 50px -15px #4b4949;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
